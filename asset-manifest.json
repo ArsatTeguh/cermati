@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cermati/static/css/main.b9613d26.css",
+    "main.js": "/cermati/static/js/main.a67c1c1b.js",
+    "static/media/image-header.jpg": "/cermati/static/media/image-header.a708e60e3209abe2f71f.jpg",
+    "index.html": "/cermati/index.html",
+    "main.b9613d26.css.map": "/cermati/static/css/main.b9613d26.css.map",
+    "main.a67c1c1b.js.map": "/cermati/static/js/main.a67c1c1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9613d26.css",
+    "static/js/main.a67c1c1b.js"
+  ]
+}
